@@ -1,0 +1,15 @@
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 4/bin/Debug/net6.0/Homework task 4
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 4/bin/Debug/net6.0/Homework task 4.deps.json
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 4/bin/Debug/net6.0/Homework task 4.runtimeconfig.json
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 4/bin/Debug/net6.0/Homework task 4.dll
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 4/bin/Debug/net6.0/Homework task 4.pdb
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 4/obj/Debug/net6.0/Homework task 4.csproj.AssemblyReference.cache
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 4/obj/Debug/net6.0/Homework task 4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 4/obj/Debug/net6.0/Homework task 4.AssemblyInfoInputs.cache
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 4/obj/Debug/net6.0/Homework task 4.AssemblyInfo.cs
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 4/obj/Debug/net6.0/Homework task 4.csproj.CoreCompileInputs.cache
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 4/obj/Debug/net6.0/Homework task 4.dll
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 4/obj/Debug/net6.0/refint/Homework task 4.dll
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 4/obj/Debug/net6.0/Homework task 4.pdb
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 4/obj/Debug/net6.0/Homework task 4.genruntimeconfig.cache
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 4/obj/Debug/net6.0/ref/Homework task 4.dll
