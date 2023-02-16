@@ -1,0 +1,15 @@
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 8 seminar1/bin/Debug/net6.0/Homework task 8 seminar1
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 8 seminar1/bin/Debug/net6.0/Homework task 8 seminar1.deps.json
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 8 seminar1/bin/Debug/net6.0/Homework task 8 seminar1.runtimeconfig.json
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 8 seminar1/bin/Debug/net6.0/Homework task 8 seminar1.dll
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 8 seminar1/bin/Debug/net6.0/Homework task 8 seminar1.pdb
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 8 seminar1/obj/Debug/net6.0/Homework task 8 seminar1.csproj.AssemblyReference.cache
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 8 seminar1/obj/Debug/net6.0/Homework task 8 seminar1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 8 seminar1/obj/Debug/net6.0/Homework task 8 seminar1.AssemblyInfoInputs.cache
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 8 seminar1/obj/Debug/net6.0/Homework task 8 seminar1.AssemblyInfo.cs
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 8 seminar1/obj/Debug/net6.0/Homework task 8 seminar1.csproj.CoreCompileInputs.cache
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 8 seminar1/obj/Debug/net6.0/Homework task 8 seminar1.dll
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 8 seminar1/obj/Debug/net6.0/refint/Homework task 8 seminar1.dll
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 8 seminar1/obj/Debug/net6.0/Homework task 8 seminar1.pdb
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 8 seminar1/obj/Debug/net6.0/Homework task 8 seminar1.genruntimeconfig.cache
+/Users/ekaterinaartamonova/Desktop/C# homework 1 seminar/Dune/Homework task 8 seminar1/obj/Debug/net6.0/ref/Homework task 8 seminar1.dll
