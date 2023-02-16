@@ -3,4 +3,11 @@
 //5 -> 2, 4
 //8 -> 2, 4, 6, 8
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Input number");
+int a = Convert.ToInt32(Console.ReadLine());
+
+for (int b = 1; b <= a; b++)
+{
+    if (b%2 == 0)
+    Console.WriteLine(b);
+}
